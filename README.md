@@ -6,7 +6,7 @@ bat파일 작업스케쥴러로 트리거<br>
 <br>
 db 디렉토리에 샘플 파일1개
 
-![tick](https://user-images.githubusercontent.com/40931326/84742829-09d02500-afec-11ea-9ecb-ef7638eada3b.PNG)
+![tick](https://user-images.githubusercontent.com/40931326/84742829-09d02500-afec-11ea-9ecb-ef7638eada3b.PNG)<br>
 gyusu님의 creonAPI  github에서 1분봉 서버 끝까지 가져오는 법 외 util등을 참고! 
 
 
